@@ -18,7 +18,21 @@
 *.zip
 *.tar.gz
 *.rar
-*.7zip
+*.7z
+*.s7z
+*.iso
+*.sbx
+*.sz
+*.apk
+*.cdx
+*.arc
+*.cab
+*.pak
+*.sfx
+*.war
+*.xar
+*.zoo
+*.zz
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
